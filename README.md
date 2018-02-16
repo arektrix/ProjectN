@@ -8,5 +8,6 @@ https://iamtrask.github.io/2015/07/12/basic-python-network/
 http://www.cs.toronto.edu/~cmaddis/pubs/deepgo.pdf
 
 <b>Python Learning Resources</b><br />
-https://learnpythonthehardway.org/book/
+https://developers.google.com/edu/python/
+http://automatetheboringstuff.com/
 https://www.reddit.com/r/Python/comments/7mwgtw/python_cheet_sheet_for_begineers/
